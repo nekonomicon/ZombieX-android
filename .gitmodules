@@ -1,4 +1,4 @@
-[submodule "hlsdk-xash3d"]
-	path = hlsdk-xash3d
+[submodule "jni/hlsdk-xash3d"]
+	path = jni/hlsdk-xash3d
 	url = https://github.com/nekonomicon/hlsdk-xash3d
 	branch = zombie-x
